@@ -15,12 +15,12 @@ GitHub displays HTML source; download the HTML report and open it in a browser t
 
 ## Run the executable
 
-Download [Anantha Naik B L_C# Assignment.exe](RapiddAssignment/publish/Anantha%20Naik%20B%20L_C%23%20Assignment.exe) and run it on Windows x64. Internet access is required to retrieve the API data. The executable includes the .NET runtime and extracts bundled native libraries when necessary.
+Download the executable from the [v1.0 release](https://github.com/AnanthaNaik/RAPIDD-Tech-Assignment/releases/tag/v1.0). Under Assets, click the .exe file. Run it on Windows x64 with an internet connection. Internet access is required to retrieve the API data. The executable includes the .NET runtime and extracts bundled native libraries when necessary.
 
 From PowerShell in the download folder:
 
 ```powershell
-& '.\Anantha Naik B L_C# Assignment.exe'
+& '.\Anantha.Naik.B.L_C.Assignment.exe'
 ```
 
 The application writes `output/employees.html` and `output/employees-pie.png` under the current working directory. Use a folder where you have write permission.
